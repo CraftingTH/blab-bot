@@ -1,1 +1,1 @@
-require('Discord.js');
+console.log('Hello World!')
